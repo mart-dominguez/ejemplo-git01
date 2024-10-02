@@ -10,3 +10,5 @@ AGREGO EN DEVELOP
 AGREGO CAMBIO 2
 
 Agrego cambio en local  🇨🇦
+
+agregar metodo dev2
